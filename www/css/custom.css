@@ -1,0 +1,16 @@
+tr
+{
+	width: 100%;
+}
+table
+{
+	height:300px; 
+}
+tbody
+{
+	overflow-y: scroll;
+	overflow-x: scroll;
+	height: 300px;
+	width: 100%;
+	position: absolute;
+}
