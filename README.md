@@ -11,6 +11,10 @@ To edit or build upon this php/chat.php has the code behind the parsing.
 
 For installation:
 
+Intended for LAMP. WAMP users may have to change file structure connections e.g
+
+php/ on LAMP changed to /php/ for WAMP
+
 Build the Database and Tables using the .sql file through LAMP/WAMP
 Put all the files into the WWW directory
 
