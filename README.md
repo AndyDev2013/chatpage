@@ -1,5 +1,3 @@
-![Screenshot](http://puu.sh/mrcoJ/8abeeae115.jpg)
-
 # localchatpage
 This project is intended for local use only and was quickly thrown together over the course of a day or so
 to test some jQuery and PHP. 
